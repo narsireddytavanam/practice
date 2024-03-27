@@ -1,3 +1,2 @@
 hello world 
 welcome to guntur
-from practice purpose
